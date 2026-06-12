@@ -5,8 +5,6 @@ Welcome! This is my Portfolio. It explains a little about me, my experience, and
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
 ### Rythm Of The Skies
 *A brief description of your project, the tools used, and the key insights derived.*
 
