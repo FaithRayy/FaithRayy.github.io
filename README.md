@@ -5,10 +5,6 @@ Welcome! This is my Portfolio. It explains a little about me, my experience, and
 
 ## 🚀 Projects
 
-### Rythm Of The Skies
-- *A web application using the Spotify API to make Spotify playlists based on the weather in your area.*
-- *Technology Used: MERN stack, Postman, AWS*
-
 ### Malware Analysis Lab
 - *Built an isolated malware analysis sandbox environment.*
 - *Tools: VirtualBox, Windows ISO*
@@ -21,6 +17,10 @@ Welcome! This is my Portfolio. It explains a little about me, my experience, and
 ### Senior Design: PRINT webpage
 - *A digital humanities research platform developed by CHDR that enables scholars to explore historical correspondence networks.*
 - *Tools: Ubuntu, MariaDB, React, Mapwarper, NetworkX, Leaflet, Figma, Git*
+
+### Rythm Of The Skies
+- *A web application using the Spotify API to make Spotify playlists based on the weather in your area.*
+- *Technology Used: MERN stack, Postman, AWS*
 
 ## 🛠️ Skills
 
