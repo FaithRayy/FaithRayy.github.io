@@ -46,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function embedPowerBIDashboard() {
     // This would be replaced with actual Power BI embedding code
     console.log('Power BI dashboard embedded');
+    console.log(window.innerWidth);
 }
 
 // Initialize any additional components
