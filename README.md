@@ -22,6 +22,10 @@ Welcome! This is my Portfolio. It explains a little about me, my experience, and
 - *A web application using the Spotify API to make Spotify playlists based on the weather in your area.*
 - *Technology Used: MERN stack, Postman, AWS*
 
+### Network Simulation Lab
+- *Designed and configured simulated network topologies using routers, switches, and end devices.*
+- *Technology Used: Cisco Packet Tracer, Command-Line*
+
 ## 🛠️ Skills
 
 - **Cybersecurity**: Malware Analysis, Cloud Networking and Security, Security Monitoring, Log Analysis, Digital Forensics, Ethical Hacking
