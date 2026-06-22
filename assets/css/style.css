@@ -192,11 +192,17 @@ nav ul li a:hover::after {
     line-height: 1.9;
 }
 
-/* --- 5.5 Project Cards --- */
+/* ---  Project Cards --- */
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     gap: 40px;
+}
+/* -- Adjust for phones -- */
+@media (max-width: 760px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 .project-card {
