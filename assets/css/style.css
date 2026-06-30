@@ -95,6 +95,11 @@ header p {
     transform: translateY(-3px);
 }
 
+.social-links img {
+    height: 25.6px;
+    width: auto;
+}
+
 /* --- 4. Navigation --- */
 nav {
     background-color: rgba(26, 42, 76, 0.95); /* Adjusted for new primary color */
