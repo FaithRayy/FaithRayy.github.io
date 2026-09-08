@@ -1,6 +1,6 @@
 # Faith Mathuirn - Portfolio
 
-Welcome! This is my Portfolio. It explains a little about me, my experience, and projects i have worked on!
+Welcome! This is my Portfolio. It explains a little about me, my experience, and the projects I have worked on!
 
 
 ## 🚀 Projects
@@ -8,17 +8,21 @@ Welcome! This is my Portfolio. It explains a little about me, my experience, and
 ### Malware Analysis Lab
 - *Built an isolated malware analysis sandbox environment.*
 - *Tools: VirtualBox, Windows ISO*
-- *Used to monitor system behavior, processes, and logs to identify malicious activity, and practiced threat detection.*
+- *Utilized system monitoring capabilities to track system behavior, processes, and logs across multiple devices, enabling the identification of malicious activities and the practice of threat detection.*
 
-### SIEM
+### Home SIEM
 - *Built a home Security Information and Event Management (SIEM) system using Wazuh.*
 - *Tools: VirtualBox, Ubuntu Linux, Wazuh*
 
-### Senior Design: PRINT webpage
-- *A digital humanities research platform developed by CHDR that enables scholars to explore historical correspondence networks.*
-- *Tools: Ubuntu, MariaDB, React, Mapwarper, NetworkX, Leaflet, Figma, Git*
+### Security Toolkit
+- *A small collection of Security-orientated Python scripts.*
+- *Tools and Libraries: Python, pandas, requests, getmac, pwinput*
 
-### Rythm Of The Skies
+### Senior Design: PRINT Portal UI & Experience
+- *A digital humanities research platform developed by CHDR that enables scholars to explore historical correspondence networks.*
+- *Tools: Figma, React 18, PrimeReact, Mapwarper, Leaflet, Sigma.js, Graphology, Node.js, Express.js, Knex.js, Apache, MariaDB, Ubuntu, NetworkX,  Git*
+
+### Rhythm Of The Skies
 - *A web application using the Spotify API to make Spotify playlists based on the weather in your area.*
 - *Technology Used: MERN stack, Postman, AWS*
 
@@ -29,9 +33,9 @@ Welcome! This is my Portfolio. It explains a little about me, my experience, and
 ## 🛠️ Skills
 
 - **Cybersecurity**: Malware Analysis, Cloud Networking and Security, Security Monitoring, Log Analysis, Digital Forensics, Ethical Hacking
-- **Networking**: Routing & Switching Fundamentals, AWS Cloud Networking, Network Configuration, Wireless Networking, Network Troubleshooting, Packet Analysis
+- **Networking**: Routing & Switching Fundamentals, AWS Cloud Networking, Network Configuration, Wireless Networking, Network Troubleshooting, Packet Analysis, DNS, TCP/IP
 - **Data Analysis**: SQL, Python (Pandas), R, Excel
 - **Programming Languages**: Java, Python, C/C++, PHP, JavaScript, HTML/CSS
-- **Scripting**: Powershell, Bash
-- **Environments/OS**: Linux, Windows, MacOS
-- **Tools**: Microsoft Office (Word, Excel, PowerPoint, Outlook), Wireshark, Burp Suite, Metasploit, Autopsy, Sleuthkit, Blender
+- **Scripting**: PowerShell, Bash, Python scripting
+- **Environments/OS**: Linux (Ubuntu, Kali), Windows 10/11, macOS
+- **Tools**: Microsoft Office (Word, Excel, PowerPoint, Outlook), Wireshark, Burp Suite, Metasploit, Metasploitable, Autopsy, Sleuth Kit
